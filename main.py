@@ -5,7 +5,7 @@ import uvicorn
 from datetime import datetime
 
 # Replace with your actual phone numbers
-phone_numbers = ["9352631731", "9784002051"]
+phone_numbers = ["9462723828", "8094920700"]
 
 # API Endpoints
 otp_request_url = "https://spec.iitschool.com/api/v1/login-otp"
